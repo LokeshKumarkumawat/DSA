@@ -1,0 +1,15 @@
+int minimizeIt(vector<int> A, int K)
+{
+    // Write your code here.
+    sort(A.begin(),A.end());
+    int n=A.size(),ans=A[n-1]-A[0];
+    int maxEle,minEle;
+    for(int i=1;i<n;i++){
+        maxEle = max(A[i-1]+K,A[n-1]-K);
+        minEle = min(A[i]-K,A[0]+K);
+        if(minEle < 0) continue;
+        ans=min(ans,(maxEle-minEle));
+    }
+    return ans;
+    
+}

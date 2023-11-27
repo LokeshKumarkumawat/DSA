@@ -1,0 +1,111 @@
+1Dimantion DP
+Kadane Algo
+
+https://leetcode.com/problems/maximum-subarray/
+
+House Robbery
+
+https://leetcode.com/problems/house-robber/
+https://leetcode.com/problems/delete-and-earn/
+https://leetcode.com/problems/paint-house/
+https://leetcode.com/problems/house-robber-ii/
+
+
+Fibonacci Number
+
+https://leetcode.com/problems/fibonacci-number/
+https://leetcode.com/problems/climbing-stairs/
+https://leetcode.com/problems/min-cost-climbing-stairs/
+
+
+Buy And Sell Stocks
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+https://leetcode.com/problems/trapping-rain-water/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+https://leetcode.com/problems/maximum-product-subarray/ - imp
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+
+
+2Dimantion DP (Direct imp no RR)
+https://leetcode.com/problems/pascals-triangle/
+https://leetcode.com/problems/champagne-tower/
+https://leetcode.com/problems/triangle/
+
+
+0/1 knapsack (Inclusion Exclusion)
+https://leetcode.com/problems/coin-change/
+https://leetcode.com/problems/partition-equal-subset-sum/
+https://leetcode.com/problems/coin-change-2/
+
+
+Longest Common Subsequence (String):
+https://leetcode.com/problems/longest-common-subsequence/
+https://leetcode.com/problems/regular-expression-matching/ - IMP
+https://leetcode.com/problems/wildcard-matching/
+https://leetcode.com/problems/edit-distance/
+https://leetcode.com/problems/decode-ways/
+https://leetcode.com/problems/delete-operation-for-two-strings/
+https://leetcode.com/problems/maximum-length-of-repeated-subarray/ - Num Data, can also solve with Sliding wd.
+https://leetcode.com/problems/longest-palindromic-subsequence/
+https://leetcode.com/problems/longest-palindromic-substring/ - can solve without DP
+https://leetcode.com/problems/palindromic-substrings/
+
+Longest Increasing subsequence :
+https://leetcode.com/problems/longest-increasing-subsequence/
+
+
+Matrix Chain Multiplication :
+https://leetcode.com/problems/burst-balloons/
+
+
+DP + Matrix :
+https://leetcode.com/problems/unique-paths/
+https://leetcode.com/problems/maximal-square/
+https://leetcode.com/problems/knight-dialer/
+https://leetcode.com/problems/unique-paths-ii/
+https://leetcode.com/problems/out-of-boundary-paths/
+https://leetcode.com/problems/minimum-path-sum/
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+https://leetcode.com/problems/knight-probability-in-chessboard/
+https://leetcode.com/problems/bomb-enemy/
+
+Standerd Approch (Draw DAG and answer)
+https://leetcode.com/problems/ones-and-zeroes/
+https://leetcode.com/problems/minimum-cost-for-tickets/
+
+
+TO DO(IMP)
+https://leetcode.com/problems/longest-string-chain/
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+https://leetcode.com/problems/word-break/
+https://leetcode.com/problems/matchsticks-to-square/
+https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
+https://leetcode.com/problems/perfect-squares/
+https://leetcode.com/problems/student-attendance-record-ii/
+https://leetcode.com/problems/integer-break/
+https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+https://leetcode.com/problems/largest-divisible-subset/
+
+
+TO DO (VIMP)
+https://leetcode.com/problems/longest-valid-parentheses
+https://leetcode.com/problems/maximal-rectangle
+https://leetcode.com/problems/scramble-string
+https://leetcode.com/problems/interleaving-string
+https://leetcode.com/problems/word-break-ii
+https://leetcode.com/problems/dungeon-game
+https://leetcode.com/problems/palindrome-partitioning-ii
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+https://leetcode.com/problems/number-of-digit-one
+https://leetcode.com/problems/russian-doll-envelopes
+https://leetcode.com/problems/combination-sum-iv
+https://leetcode.com/problems/frog-jump
+https://leetcode.com/problems/poor-pigs
+https://leetcode.com/problems/can-i-win
+https://leetcode.com/problems/optimal-account-balancing
+https://leetcode.com/problems/concatenated-words
+https://leetcode.com/problems/predict-the-winner
+https://leetcode.com/problems/k-inverse-pairs-array
+https://leetcode.com/problems/valid-parenthesis-string
+https://leetcode.com/problems/arithmetic-slices/ - math

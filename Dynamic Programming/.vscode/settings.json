@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.json": "json",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "vector": "cpp"
+    }
+}
